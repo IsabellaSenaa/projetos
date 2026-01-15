@@ -1,5 +1,5 @@
-valor1=float(input('digite o valor1'))
-valor2=float(input('digite o valor2'))
+valor1=10
+valor2=5
 operacao=input('digite o simbolo da operaçao, +, _, *, /')
 if operacao=='+':
  print('resultado=valor1+valor2', '\n',valor1+valor2)
